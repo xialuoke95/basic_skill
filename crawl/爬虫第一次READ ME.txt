@@ -1,0 +1,23 @@
+第一次爬虫我们主要演示一下如何爬取豆瓣电影top250，演示之前，希望大家稍微完成以下几个小任务。
+
+1. 安装python3模块numpy, pandas, requests, lxml, bs4
+
+2. 稍微了解一下HTTP状态码
+参考链接：https://zh.wikipedia.org/wiki/HTTP%E7%8A%B6%E6%80%81%E7%A0%81
+
+3. 稍微了解一下HTTP头字段，重点关注User-Agent字段就可以了
+参考链接：https://zh.wikipedia.org/wiki/HTTP%E5%A4%B4%E5%AD%97%E6%AE%B5
+
+4. 稍微了解一下啊XML语言和XPath语法
+参考链接：http://www.w3school.com.cn/xpath/xpath_syntax.asp
+
+5. 豆瓣电影top250链接：https://movie.douban.com/top250
+
+6. 有时间的可以参照下面的教程爬取豆瓣电影top250
+参考链接：https://zhuanlan.zhihu.com/p/26304106
+
+7. 第一次爬虫的代码我也附上了，大家可以在本地试运行一下，不保证在所有的环境下都能正常运行。
+
+8. 上面除了第一条，我下次讲爬虫的时候都会讲解。希望大家务必在之前安装好必须的模块
+
+9. 如果时间允许，我也会稍微展示一下如何爬取大众点评KTV的营业时间
